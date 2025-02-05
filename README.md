@@ -1,11 +1,11 @@
-<h3 id="hi-there--im-danushka">Hi there 👋 I’m Mara!</h3>
+<h1 id="hi-there--im-danushka">Hi there 👋 I’m Mara!</h1>
 <ul>
   <li>👨‍💻 I’m currently studying Web Applicatio Development </li>
   <li>📚 Learning more and more about Frontend an Backend technologies </li>
   <li>💪🏼 Never stop learning </li>
 </ul>
 <hr>
-<h5 id="languages-i-use">Programming languages</h5>
+<h3 id="languages-i-use">Programming languages</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-PHP-000000?style=flat&amp;logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&amp;logo=mysql" alt="MySQL">
 </p>
-<h5 id="some-of-the-technologies-i-have-worked-with">Technologies</h5>
+<h3 id="some-of-the-technologies-i-have-worked-with">Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&amp;logo=angular" alt="Angular">
   <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&amp;logo=laravel" alt="Laravel">

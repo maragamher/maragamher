@@ -1,9 +1,3 @@
-<div align="center">
- <a class="link" href="https://github.com/maragamher/maragamher/blob/4a925b64890b1e1ec99d11ba1ab8093a9d8cf587/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
-</div>
-
 <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/Danushka2/Danushka2/">Mara!</a></h3>
 <ul>
   <li>👨‍💻 I’m currently studying Web Applicatio Development </li>

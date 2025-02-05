@@ -1,4 +1,4 @@
-<h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/maragamher/">Mara!</a></h3>
+<h3 id="hi-there--im-danushka">Hi there 👋 I’m Mara!</h3>
 <ul>
   <li>👨‍💻 I’m currently studying Web Applicatio Development </li>
   <li>📚 Learning more and more about Frontend an Backend technologies </li>

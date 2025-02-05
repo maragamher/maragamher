@@ -1,6 +1,10 @@
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
+
 <h3 id="hi-there--im-danushka">Hi there 👋 I’m <a href="https://github.com/Danushka2/Danushka2/">Mara!</a></h3>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-<!--<h2 id="im-a-associate-software-engineer-at-acentura">I’m a Web Application Developer</h2>-->
 <ul>
   <li>👨‍💻 I’m currently studying Web Applicatio Development </li>
   <li>📚 Learning more and more about Frontend an Backend technologies </li>

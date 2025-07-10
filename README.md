@@ -1,7 +1,7 @@
 <h1 id="hi-there--im-danushka">Hi there 👋 I’m Mara!</h1>
 <ul>
-  <li>👨‍💻 I’m currently studying Web Applicatio Development </li>
-  <li>📚 Learning more and more about Frontend an Backend technologies </li>
+  <li>👨‍💻 I’m Web Application Developer </li>
+  <li>📚 Learning more and more about Frontend and Backend technologies </li>
   <li>💪🏼 Never stop learning </li>
 </ul>
 <hr>

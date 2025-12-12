@@ -1,32 +1,21 @@
-<h1 id="hi-there--im-danushka">Hi there 👋 I’m Mara!</h1>
-<ul>
-  <li>👨‍💻 I’m Web Application Developer </li>
-  <li>📚 Learning more and more about Frontend and Backend technologies </li>
-  <li>💪🏼 Never stop learning </li>
-</ul>
-<hr>
-<h3 id="languages-i-use">Programming languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&amp;logo=css" alt="CSS">
-  <br>
-  <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/-PHP-000000?style=flat&amp;logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&amp;logo=mysql" alt="MySQL">
-</p>
-<h3 id="some-of-the-technologies-i-have-worked-with">Technologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&amp;logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&amp;logo=laravel" alt="Laravel">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">
-  <br>
-  <img src="https://img.shields.io/badge/-Git-222222?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&amp;logo=github&amp;logoColor=181717" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Linux-222222?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/-Node.js-222222?style=flat&amp;logo=node.js&amp;logoColor=339933" alt="Node.js">  
-  <img src="https://img.shields.io/badge/-Ovh-222222?style=flat&amp;logo=ovh" alt="OVH">  
-  <br>
-</p>
-<hr>
+# Hi there 👋 I’m Mara! 
+## 🚀 About Me 
+- 👨‍💻 I’m Web Application Developer 
+- 📚 Learning more and more about Frontend and Backend technologies
+- 💪🏼 Never stop learning
+
+## 💻 Tech Stack
+### Languages 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Frontend 
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+### Backend & Tools 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+### Databases 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+### DevOps & Tools 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+## 📫 Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/mara-gambero-hern%C3%A1ndez/)) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gambero.mara@gmail.com)
